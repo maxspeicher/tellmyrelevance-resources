@@ -13,7 +13,7 @@ It is crucial for the success of a search-driven web application to answer users
 
 This repository contains:
 
-- in the folder **data** (to be used with [WEKA](http://www.cs.waikato.ac.nz/ml/weka/))
-  - The relevance model and corresponding training data for each of the three datasets; produced with the default version of TMR (full feature set).
-  - The relevance model and corresponding training data for each of the three datasets; produced with the clicks-only version of TMR.
+- in the folder **data** (to be used with [WEKA](http://www.cs.waikato.ac.nz/ml/weka/)):
+  - The relevance models and corresponding training data for each of the three datasets; produced with the default version of TMR (full feature set).
+  - The relevance models and corresponding training data for each of the three datasets; produced with the clicks-only version of TMR.
   - The baseline model and corresponding training data; generated using the Random Mouse Cursor extension.
