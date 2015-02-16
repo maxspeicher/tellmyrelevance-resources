@@ -20,7 +20,7 @@ This repository contains:
   - The relevance models for each of the three datasets; produced with the default version of TMR (full feature set).
   - The relevance models for each of the three datasets; produced with the clicks-only version of TMR.
 - in the folder **precision-recall-data**:
-  - All data necessary to reproduce Precision-Recall and ROC analyses for all datasets and compared approaches (TMR, DBN, click-only TMR)
+  - All data necessary to reproduce Precision-Recall and ROC analyses for all datasets and compared approaches (TMR, DBN, click-only TMR).
 
 ## References
 
