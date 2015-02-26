@@ -25,3 +25,9 @@ This repository contains:
 ## References
 
 1. Chapelle, Olivier, and Ya Zhang. "A dynamic bayesian network click model for web search ranking." In *Proceedings of the 18th International Conference on World Wide Web (WWW '09)*. ACM, 2009.
+
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
