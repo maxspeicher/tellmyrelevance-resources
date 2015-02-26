@@ -17,3 +17,9 @@ This repository contains:
   - The relevance models and corresponding training data for each of the three datasets; produced with the default version of TMR (full feature set).
   - The relevance models and corresponding training data for each of the three datasets; produced with the clicks-only version of TMR.
   - The baseline model and corresponding training data; generated using the Random Mouse Cursor extension.
+
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
