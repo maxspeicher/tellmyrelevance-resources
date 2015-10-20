@@ -7,7 +7,7 @@ It is crucial for the success of a search-driven web application to answer users
 
 ## Publication(s)
 
-- Maximilian Speicher, Andreas Both, and Martin Gaedke (2013). "TellMyRelevance! Predicting the Relevance of Web Search Results from Cursor Interactions". In: *Proc. CIKM*. http://dl.acm.org/citation.cfm?id=2505703
+- Maximilian Speicher, Andreas Both, and Martin Gaedke (2013). "TellMyRelevance! Predicting the Relevance of Web Search Results from Cursor Interactions". In: *Proc. CIKM*. [Electronic Edition](http://dl.acm.org/citation.cfm?id=2505703) | [Full Text](https://www.researchgate.net/publication/262312351)
 
 ## Resources
 
